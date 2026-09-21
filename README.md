@@ -1,8 +1,5 @@
 # Forecast Distributions, Not Trajectories: Rethinking Time Series Forecasting Benchmarks for Stochastic Dynamics
 
-> Anonymous submission for NeurIPS double-blind review.
-> Author and funding information omitted for anonymous review.
-
 This repository is the official implementation of the paper *Forecast Distributions, Not Trajectories: Rethinking
 Time Series Forecasting Benchmarks for Stochastic
 Dynamics*.
@@ -67,14 +64,7 @@ https://zenodo.org/records/20031454?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImIxM2ZhM
 
 1. Open the link above in a browser. You will see one ZIP file on the record page.
 2. Download the ZIP to the repository root.
-3. Extract it in place so that all seven folders land directly at the repository
-   root (at the same level as the source code), then remove the ZIP:
-
-```bash
-# From the repository root (nftsf_pipeline/)
-unzip neurips_weights_data.zip -d .
-rm neurips_weights_data.zip
-```
+3. Extract it in place, at the repository root, then remove the ZIP.
 
 4. Verify the layout matches the *Repository Layout* tree above. The seven
    folders must sit at the repository root.
