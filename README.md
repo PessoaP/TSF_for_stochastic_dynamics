@@ -235,7 +235,7 @@ python eval/NF/forecast_nf_encoder.py \
     --model_path   checkpoints_25_25/nf_encoder_k3/alanine_phi/model.pth \
     --data_path    data/alanine_phi_test.npz \
     --config ./checkpoints_25_25/nf_encoder_k3/alanine_phi/config.json \
-    --out          results/nf/alanine_phi_25_25.npz \
+    --out  results/nf/alanine_phi_25_25.npz \
     --n_samples 1000 --train_test_split 900 --test_size 3000 \
     --seed 42
 ```
