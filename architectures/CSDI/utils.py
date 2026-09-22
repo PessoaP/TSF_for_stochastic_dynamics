@@ -100,12 +100,12 @@ def train(
                 
 
         
-    np.savez(
+    '''np.savez(
         config["training_curv"] + "/loss.npz",
         train_total=np.array(train_loss),
         val_total=np.array(val_loss),
         epochs=np.array(epochs_list),
-    )
+    )'''
     
     import matplotlib.pyplot as plt
     plt.figure(figsize=(10, 5))
