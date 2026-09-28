@@ -57,7 +57,7 @@ seven folders and preserves their internal structure.
 **Anonymous preview link (for reviewers):**
 
 ```
-[https://zenodo.org/records/20031454?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImIxM2ZhMWFkLTE2NmYtNGMxYi04MzY3LTYwYTcxZWUyYjU4NSIsImRhdGEiOnt9LCJyYW5kb20iOiI5Y2Q0NWY4Mjc4ODE4ODE4MjQ4ZjczZjUxZDVjMDJlOCJ9.nXG6o-7ulOPwX4zbeSPZ7cDvWKp3d6uSZL0BiSCl22mf6RG08B4RJVI6GzsAmM4yuvt9L6JY4Zbp6DZG2LzisA](https://zenodo.org/records/23022448)
+https://zenodo.org/records/23022448
 ```
 
 **Reconstruction steps:**
